@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Jake — aka Shadovaine
+# 👋 Hey, I’m Jake — aka ShadoVaine
 
 ## 🛡️ Cybersecurity Apprentice | Linux Wrangler | CLI Addict | WhiteHat in training | Home Lab Builder
 
@@ -47,6 +47,6 @@ I’m learning in public — not because I know it all, but because I’m commit
 
 ---
 
-> 🧙‍♂️ _“In order to know God, you must know the Devil.”_ – Shadovaine## Hi there 👋
+> 🧙‍♂️ _“In order to know God, you must know the Devil.”_ – **ShadoVaine**
 
 
