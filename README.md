@@ -41,7 +41,7 @@ I’m learning in public — not because I know it all, but because I’m commit
 
 ### 🌐 Connect with Me
 
-- [LinkedIn (Jake Welly)](https://www.linkedin.com/in/your-link-here) Follow me on LinkedIn:(www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jake-w-15632092*()*)
+- [LinkedIn (Jake Welly)](http://linkedin.com/in/jake-w-15632092) 
 - Email: shado.sec@proton.me
 - Coming soon: Cyber blog, GitHub projects, and threat logs
 
