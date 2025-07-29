@@ -1,8 +1,8 @@
-# 👋 Hey, I’m Jake Welly — aka Shadovaine
+# 👋 Hey, I’m Jake — aka Shadovaine
 
-## 🛡️ Cybersecurity Apprentice | Linux Wrangler | CLI Addict
+## 🛡️ Cybersecurity Apprentice | Linux Wrangler | CLI Addict | WhiteHat in training | Home Lab Builder
 
-I’m a former paramedic and healthcare veteran now diving deep into the world of Linux, cybersecurity, and network defense. My mission?  
+I’m a former healthcare worker, Army veteran who is now diving deep into the world of Linux, cybersecurity, and network defense. My mission?  
 **To become the quiet sentinel on the edge of the wire.**
 
 ---
@@ -11,7 +11,6 @@ I’m a former paramedic and healthcare veteran now diving deep into the world o
 - 📚 Studying for **CompTIA Linux+**
 - 🧪 Hands-on with **TryHackMe**, system hardening, and scripting
 - 🔐 Learning about **firewalls, VPNs, DNS leaks, and Linux hardening**
-- 🧠 Daily drills: `grep`, `find`, `iptables`, bash scripts, and log analysis
 - 💻 Starting to build a **cybersecurity portfolio** right here on GitHub
 
 ---
@@ -26,7 +25,7 @@ I’m a former paramedic and healthcare veteran now diving deep into the world o
 
 ### 👀 What I'm About
 > *"The person you’re afraid of looking dumb in front of… probably respects you for trying in the first place."*  
-> – **Dragon Wisdom**
+> – **Shadow Wisdom**
 
 I’m learning in public — not because I know it all, but because I’m committed to knowing more tomorrow than I did today.
 
