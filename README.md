@@ -9,17 +9,15 @@ I’m a former healthcare worker, Army veteran who is now diving deep into the w
 
 ### 🔧 What I’m Working On:
 - 📚 Studying for **CompTIA Linux+**
-- 🧪 Hands-on with **TryHackMe**, system hardening, and scripting
-- 🔐 Learning about **firewalls, VPNs, DNS leaks, and Linux hardening**
+- 🧪 Hands-on with **TryHackMe**, Cybersecurity Path
+- 🔐 Furthering my **Linux-Command-Library**, plowing through setting up yml files
 - 💻 Starting to build a **cybersecurity portfolio** right here on GitHub
 
 ---
 
 ### 🗂️ Featured Repos Coming Soon:
 - `linux-command-library` – categorized Linux syntax, drills, and notes
-- `bash-scripts` – automation tasks and cleanup jobs
-- `network-watcher` – observations, logs, honeypot experiments
-- `cert-tracker` – roadmap and progress through certs like Linux+, Sec+, etc.
+- `IT-Support-Knowledge-Base` - starting a one-stop place for troubleshooting playbooks for al sorts of common IT issues
 
 ---
 
@@ -43,7 +41,6 @@ I’m learning in public — not because I know it all, but because I’m commit
 
 - [LinkedIn (Jake W)](http://linkedin.com/in/jake-w-15632092) 
 - Email: shado.sec@proton.me
-- Coming soon: Cyber blog, GitHub projects, and threat logs
 
 ---
 
