@@ -33,7 +33,11 @@ I’m learning in public — not because I know it all, but because I’m commit
 [![Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Kali Linux](https://img.shields.io/badge/Linux-Kali-268BEE?logo=kalilinux&logoColor=white)](https://www.kali.org/)
 [![Lubuntu](https://img.shields.io/badge/Linux-Lubuntu-0068C8?logo=lubuntu&logoColor=white)](https://lubuntu.me/)
-![Bash](https://img.shields.io/badge/-Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+
+[![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![PowerShell](https://img.shields.io/badge/Shell-PowerShell-5391FE?logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
+
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-red?style=flat-square&logo=tryhackme)
 ![CompTIA Linux+](https://img.shields.io/badge/-Linux%2B-blue?style=flat-square)
 
