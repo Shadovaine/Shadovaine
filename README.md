@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Jake — aka ShadoVaine
 
-## 🛡️ Cybersecurity Apprentice | Linux Wrangler | CLI Addict | WhiteHat in training | Home Lab Builder
+## 🛡️ Cybersecurity Apprentice | Linux Wrangler | CLI Addict | Home Lab Builder
 
 I’m a former healthcare worker, Army veteran who is now diving deep into the world of Linux, cybersecurity, and network defense. My mission?  
 **To become the quiet sentinel on the edge of the wire.**
@@ -10,8 +10,7 @@ I’m a former healthcare worker, Army veteran who is now diving deep into the w
 ### 🔧 What I’m Working On:
 - 📚 Studying for **CompTIA Linux+**
 - 🧪 Hands-on with **TryHackMe**, Cybersecurity Path
-- 🔐 Furthering my **Linux-Command-Library**, plowing through setting up yml files
-- 💻 Starting to build a **cybersecurity portfolio** right here on GitHub
+- 🔐 Furthering my **Linux-Command-Library**, almost done with the yaml files, about to begin setting up the interface!
 
 ---
 
@@ -30,7 +29,6 @@ I’m learning in public — not because I know it all, but because I’m commit
 ---
 
 ### 🛠️ Tech Stack I'm Focused On
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-red?style=flat-square&logo=tryhackme)
 ![CompTIA Linux+](https://img.shields.io/badge/-Linux%2B-blue?style=flat-square)
