@@ -37,6 +37,7 @@ I’m learning in public — not because I know it all, but because I’m commit
 [![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![PowerShell](https://img.shields.io/badge/Shell-PowerShell-5391FE?logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
+[![GitHub](https://img.shields.io/badge/Platform-GitHub-181717?logo=github&logoColor=white)](https://github.com/)
 
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-red?style=flat-square&logo=tryhackme)
 ![CompTIA Linux+](https://img.shields.io/badge/CompTia-Linux%2B-blue?style=flat-square)
