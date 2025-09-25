@@ -39,7 +39,7 @@ I’m learning in public — not because I know it all, but because I’m commit
 [![PowerShell](https://img.shields.io/badge/Shell-PowerShell-5391FE?logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
 
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-red?style=flat-square&logo=tryhackme)
-![CompTIA Linux+](https://img.shields.io/badge/-CompTia-Linux%2B-blue?style=flat-square)
+![CompTIA Linux+](https://img.shields.io/badge/CompTia-Linux%2B-blue?style=flat-square)
 
 ---
 
