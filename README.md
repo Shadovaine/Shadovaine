@@ -29,6 +29,10 @@ I’m learning in public — not because I know it all, but because I’m commit
 ---
 
 ### 🛠️ Tech Stack I'm Focused On
+
+[![Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Kali Linux](https://img.shields.io/badge/Linux-Kali-268BEE?logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Lubuntu](https://img.shields.io/badge/Linux-Lubuntu-0068C8?logo=lubuntu&logoColor=white)](https://lubuntu.me/)
 ![Bash](https://img.shields.io/badge/-Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-red?style=flat-square&logo=tryhackme)
 ![CompTIA Linux+](https://img.shields.io/badge/-Linux%2B-blue?style=flat-square)
