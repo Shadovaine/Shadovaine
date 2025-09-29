@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Media/ShadoVaine_Banner.png" alt="ShadoVaine Banner" />
+  <img src="./Media/ShadoVaine_Banner.png" alt="ShadoVaine Banner" />
 </p>
 
 # 🦂 ShadoVaine Here, Welcome!!!!
