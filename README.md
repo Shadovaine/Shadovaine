@@ -1,4 +1,5 @@
-# Hey, I’m Jake — aka ShadoVaine
+# ![MovingFogGIF](https://github.com/user-attachments/assets/de76956d-2e3f-4aae-bd15-3b917b3e3cae)
+ ShadoVaine Here, Welcome!!!!
 
 ## Cybersecurity Apprentice | Linux Wrangler | CLI Addict | Home Lab Builder | 
 
