@@ -1,22 +1,20 @@
-# 👋 Hey, I’m Jake — aka ShadoVaine
+# Hey, I’m Jake — aka ShadoVaine
 
-## 🛡️ Cybersecurity Apprentice | Linux Wrangler | CLI Addict | Home Lab Builder
+## Cybersecurity Apprentice | Linux Wrangler | CLI Addict | Home Lab Builder | 
 
 I’m a former healthcare worker, Army veteran who is now diving deep into the world of Linux, cybersecurity, and network defense. My mission?  
 **To become the quiet sentinel on the edge of the wire.**
 
 ---
 
-### 🔧 What I’m Working On:
-- 📚 Studying for **CompTIA Linux+**
-- 🧪 Hands-on with **TryHackMe**, Cybersecurity Path
-- 🔐 Furthering my **Linux-Command-Library**, almost done with the yaml files, about to begin setting up the interface!
-
+###  What I’m Working On:
+-  Studying for **CompTIA Linux+**
+-  **Linux-Command-Library TUI** soon to be released!!
+-  Hands-on with **TryHackMe**, Cybersecurity Path
 ---
 
-### 🗂️ Featured Repos Coming Soon:
-- `linux-command-library` – categorized Linux syntax, drills, and notes
-- `IT-Support-Knowledge-Base` - starting a one-stop place for troubleshooting playbooks for al sorts of common IT issues
+### Featured Repos Coming Soon:
+- `linux-command-library` – A static categorized Linux syntax, drills, and notes library will be dropped soon!!!
 
 ---
 
