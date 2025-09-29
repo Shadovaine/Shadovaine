@@ -1,4 +1,6 @@
-![ShadoVaine Banner](./media/banner.png)
+<p align="center">
+  <img src="./media/READMEBanner.png" alt="READMEBanner" />
+</p>
 
 # 🦂 ShadoVaine Here, Welcome!!!!
 
