@@ -1,3 +1,5 @@
+![ShadoVaine Banner](./media/banner.png)
+
 # 🦂 ShadoVaine Here, Welcome!!!!
 
 ## Cybersecurity Apprentice | Linux Wrangler | CLI Addict | Home Lab Builder | 
