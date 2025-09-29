@@ -1,5 +1,4 @@
-# ![MovingFogGIF](https://github.com/user-attachments/assets/de76956d-2e3f-4aae-bd15-3b917b3e3cae)
- ShadoVaine Here, Welcome!!!!
+# 🦂 ShadoVaine Here, Welcome!!!!
 
 ## Cybersecurity Apprentice | Linux Wrangler | CLI Addict | Home Lab Builder | 
 
@@ -8,18 +7,18 @@ I’m a former healthcare worker, Army veteran who is now diving deep into the w
 
 ---
 
-###  What I’m Working On:
+### 🛠️ What I’m Working On 🛠️:
 -  Studying for **CompTIA Linux+**
 -  **Linux-Command-Library TUI** soon to be released!!
--  Hands-on with **TryHackMe**, Cybersecurity Path
+-  Hands-on with **TryHackMe**, Cybersecurity 101 Pathway!
 ---
 
-### Featured Repos Coming Soon:
+### 🎥 Featured Repos Coming Soon 🎥:
 - `linux-command-library` – A static categorized Linux syntax, drills, and notes library will be dropped soon!!!
 
 ---
 
-### 👀 What I'm About
+### ♏ What I'm About ♏
 > *"The person you’re afraid of looking dumb in front of… probably respects you for trying in the first place."*  
 > – **Shadow Wisdom**
 
@@ -27,7 +26,7 @@ I’m learning in public — not because I know it all, but because I’m commit
 
 ---
 
-### 🛠️ Tech Stack I'm Focused On
+### 🛠️ Tech Stack I'm Focused On 🛠️
 
 [![Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Kali Linux](https://img.shields.io/badge/Linux-Kali-268BEE?logo=kalilinux&logoColor=white)](https://www.kali.org/)
@@ -43,13 +42,13 @@ I’m learning in public — not because I know it all, but because I’m commit
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect with Me 🌐
 
 - [LinkedIn (Jake W)](http://linkedin.com/in/jake-w-15632092) 
 - Email: shado.sec@proton.me
 
 ---
 
-> 🧙‍♂️ _“In order to know God, you must know the Devil.”_ – **ShadoVaine**
+> 🧙‍♂️ _“In order to know God, you must know the Devil.”_ – **🦂 ShadoVaine**
 
 
