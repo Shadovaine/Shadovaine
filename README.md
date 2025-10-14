@@ -14,7 +14,6 @@ I’m a former healthcare worker, Army veteran who is now diving deep into the w
 ### 🛠️ What I’m Working On 🛠️:
 -  Studying for **CompTIA Linux+**
 -  **Linux-Command-Library TUI** soon to be released!!
--  Hands-on with **TryHackMe**, Cybersecurity 101 Pathway!
 ---
 
 ### 🎥 Featured Repos Coming Soon 🎥:
