@@ -47,7 +47,7 @@ I’m learning in public — not because I know it all, but because I’m commit
 ---
 
 ### 🌐 Connect with Me 🌐
-- https://x.com/ShadoVaine
+- [Follow me on X (Twitter)](https://x.com/ShadoVaine)
 - Email: shado.sec@proton.me
 
 ---
