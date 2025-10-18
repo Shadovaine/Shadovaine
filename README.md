@@ -10,13 +10,38 @@ I’m a former healthcare worker, Army veteran who is now diving deep into the w
 **To become the quiet sentinel on the edge of the wire.**
 
 ---
+# 🎥 Featured Releases!!! 🎥:
+lcl – A lightweight command-line interface library of Linux commands and drills, giving sysadmins and students a Terminal UI (TUI) to learn & reference syntax on the fly.
 
-### 🛠️ What I’m Working On 🛠️:
--  Studying for **CompTIA Linux+**
--  **Linux-Command-Library TUI** soon to be released!!
 ---
 
-### 🎥 Featured Repos Coming Soon 🎥:
+## 🧱 The Linux-Command-Library (Static Edition)
+
+The **Linux-Command-Library** is a categorized, static Markdown library containing syntax, explanations, and real-world examples for 180+ Linux commands.  
+It’s designed to be:
+- 📚 **Offline-ready:** clone it, keep it local, learn anywhere.  
+- 🔍 **Searchable by category:** organized by system function (networking, permissions, processes, etc.).  
+- 🧠 **Educational:** built for CompTIA Linux+, SysAdmin training, and cybersecurity fundamentals.  
+
+### 🚀 How to Use It
+
+**Option 1 — Browse online (no install needed):**  
+Visit: [Linux-Command-Library on GitHub](https://github.com/ShadoVaine/Linux-Command-Library)
+
+**Option 2 — Use offline:**  
+```bash
+# Clone the library
+git clone https://github.com/ShadoVaine/Linux-Command-Library.git
+cd Linux-Command-Library
+
+# Explore categories
+ls
+cd "Networking_Tools"
+cat ifconfig.md
+
+---
+
+
 - `linux-command-library` – A static categorized Linux syntax, drills, and notes library will be dropped soon!!!
 
 ---
