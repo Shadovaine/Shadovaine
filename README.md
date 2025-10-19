@@ -37,19 +37,11 @@ Visit: [Linux-Command-Library on GitHub](https://github.com/ShadoVaine/Linux-Com
 # Clone the library
 git clone https://github.com/ShadoVaine/Linux-Command-Library.git
 cd Linux-Command-Library
+```
 
-# Explore categories
-ls
-cd "Networking_Tools"
-cat ifconfig.md
+
 
 ---
-
-
-- `linux-command-library` – A static categorized Linux syntax, drills, and notes library will be dropped soon!!!
-
----
-
 ### ♏ What I'm About ♏
 > *"The person you’re afraid of looking dumb in front of… probably respects you for trying in the first place."*  
 > – **Shadow Wisdom**
