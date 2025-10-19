@@ -19,9 +19,9 @@ I’m a former healthcare worker, Army veteran who is now diving deep into the w
 - lcl – A lightweight command-line interface library of Linux commands and drills, giving sysadmins and students a Terminal UI (TUI) to learn & reference syntax on the fly.
 ---
 
-## 🧱 The Linux-Command-Library (Static Edition)
+## 🧱 The LCLibrary (Static Edition)
 
-The **Linux-Command-Library** is a categorized, static Markdown library containing syntax, explanations, and real-world examples for 180+ Linux commands.  
+The **LCLibrary** is a categorized, static Markdown library containing syntax, explanations, and real-world examples for 180+ Linux commands.  
 It’s designed to be:
 - 📚 **Offline-ready:** clone it, keep it local, learn anywhere.  
 - 🔍 **Searchable by category:** organized by system function (networking, permissions, processes, etc.).  
@@ -30,17 +30,14 @@ It’s designed to be:
 ### 🚀 How to Use It
 
 **Option 1 — Browse online (no install needed):**  
-Visit: [Linux-Command-Library on GitHub](https://github.com/ShadoVaine/Linux-Command-Library)
+Visit: [LCLibrary on GitHub](https://github.com/ShadoVaine/LCLibrary)
 
 **Option 2 — Use offline:**  
 ```bash
 # Clone the library
-git clone https://github.com/ShadoVaine/Linux-Command-Library.git
-cd Linux-Command-Library
+git clone https://github.com/ShadoVaine/LCLibrary.git
+cd LCLibrary
 ```
-
-
-
 ---
 ### ♏ What I'm About ♏
 > *"The person you’re afraid of looking dumb in front of… probably respects you for trying in the first place."*  
