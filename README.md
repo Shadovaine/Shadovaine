@@ -10,13 +10,13 @@ I’m a former healthcare worker, Army veteran who is now diving deep into the w
 **To become the quiet sentinel on the edge of the wire.**
 
 ---
-# FEATURED RELEASES!!!!
+# LCL and LCLibrary FEATURED RELEASES!!!!
 ---
 <p align="center">
   <img src="./media/lcl.png" alt="lcl Banner"/></p>
 
 
-- lcl – A lightweight command-line interface library of Linux commands and drills, giving sysadmins and students a Terminal UI (TUI) to learn & reference syntax on the fly.
+- **lcl** – A lightweight command-line interface library of Linux commands and drills, giving sysadmins and students a Terminal UI (TUI) to learn & reference syntax on the fly.
 ---
 
 ## 🧱 The LCLibrary (Static Edition)
