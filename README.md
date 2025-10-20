@@ -44,6 +44,8 @@ Visit: [LCLibrary on GitHub](https://github.com/ShadoVaine/LCLibrary)
 git clone https://github.com/ShadoVaine/LCLibrary.git
 cd LCLibrary
 ```
+- ## Roadmap
+- [ ] Developing a Desktop and Mobile version of the LCLibrary containing drills, fill-in-the-blank questions, quizes, and other small games to help learn Linux commands.
 ---
 ### ♏ What I'm About ♏
 > *"The person you’re afraid of looking dumb in front of… probably respects you for trying in the first place."*  
