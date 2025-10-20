@@ -10,7 +10,7 @@ I’m a former healthcare worker, Army veteran who is now diving deep into the w
 **To become the quiet sentinel on the edge of the wire.**
 
 ---
-# FEATURED RELEASES!!!!
+# 🎞️ FEATURED RELEASES!!!! 🎞️
 ---
 <p align="center">
   <img src="./media/LCB.png" alt="LCB Banner"/></p>
@@ -25,7 +25,7 @@ I’m a former healthcare worker, Army veteran who is now diving deep into the w
   <img src="./media/LCLibrary.png" alt="LCLibrary Banner"/></p>
 ---
 
-# The LCLibrary (Static Edition)
+# 📚 The LCLibrary (Static Edition) 📚
 
 The **LCLibrary** is a categorized, static Markdown library containing syntax, explanations, and real-world examples for 180+ Linux commands.  
 It’s designed to be:
@@ -33,7 +33,7 @@ It’s designed to be:
 - 🔍 **Searchable by category:** organized by system function (networking, permissions, processes, etc.).  
 - 🧠 **Educational:** built for CompTIA Linux+, SysAdmin training, and cybersecurity fundamentals.  
 
-# 🚀 How to Use It
+## 🚀 How to Use It 🚀
 
 ## Option 1 — Browse online (no install needed):  
 Visit: [LCLibrary on GitHub](https://github.com/ShadoVaine/LCLibrary)
@@ -44,8 +44,13 @@ Visit: [LCLibrary on GitHub](https://github.com/ShadoVaine/LCLibrary)
 git clone https://github.com/ShadoVaine/LCLibrary.git
 cd LCLibrary
 ```
-- ## Roadmap
+
+---
+### 🗺️ Roadmap 🗺️
 - [ ] Developing a Desktop and Mobile version of the LCLibrary containing drills, fill-in-the-blank questions, quizes, and other small games to help learn Linux commands.
+
+---
+
 ---
 ### ♏ What I'm About ♏
 > *"The person you’re afraid of looking dumb in front of… probably respects you for trying in the first place."*  
