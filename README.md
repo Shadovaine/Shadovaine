@@ -23,6 +23,8 @@ I’m a former healthcare worker, Army veteran who is now diving deep into the w
 ---
 <p align="center">
   <img src="./media/LCLibrary.png" alt="LCLibrary Banner"/></p>
+---
+
 # The LCLibrary (Static Edition)
 
 The **LCLibrary** is a categorized, static Markdown library containing syntax, explanations, and real-world examples for 180+ Linux commands.  
