@@ -10,16 +10,19 @@ I’m a former healthcare worker, Army veteran who is now diving deep into the w
 **To become the quiet sentinel on the edge of the wire.**
 
 ---
-# LCL and LCLibrary FEATURED RELEASES!!!!
+# FEATURED RELEASES!!!!
 ---
 <p align="center">
-  <img src="./media/lcl.png" alt="lcl Banner"/></p>
+  <img src="./media/LCB.png" alt="LCB Banner"/></p>
+  
+<p align="center">
+  <img src="./media/lcl.png" alt="lcl Main Screen"/></p>
 
 
 - **lcl** – A lightweight command-line interface library of Linux commands and drills, giving sysadmins and students a Terminal UI (TUI) to learn & reference syntax on the fly.
 ---
 
-## 🧱 The LCLibrary (Static Edition)
+# The LCLibrary (Static Edition)
 
 The **LCLibrary** is a categorized, static Markdown library containing syntax, explanations, and real-world examples for 180+ Linux commands.  
 It’s designed to be:
@@ -27,12 +30,12 @@ It’s designed to be:
 - 🔍 **Searchable by category:** organized by system function (networking, permissions, processes, etc.).  
 - 🧠 **Educational:** built for CompTIA Linux+, SysAdmin training, and cybersecurity fundamentals.  
 
-### 🚀 How to Use It
+# 🚀 How to Use It
 
-**Option 1 — Browse online (no install needed):**  
+## Option 1 — Browse online (no install needed):  
 Visit: [LCLibrary on GitHub](https://github.com/ShadoVaine/LCLibrary)
 
-**Option 2 — Use offline:**  
+## Option 2 — Use offline:  
 ```bash
 # Clone the library
 git clone https://github.com/ShadoVaine/LCLibrary.git
