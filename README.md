@@ -20,6 +20,9 @@ I’m a former healthcare worker, Army veteran who is now diving deep into the w
 
 
 - **lcl** – A lightweight command-line interface library of Linux commands and drills, giving sysadmins and students a Terminal UI (TUI) to learn & reference syntax on the fly.
+
+# INSTALLATION GUIDE
+
 ---
 <p align="center">
   <img src="./media/LCLibrary.png" alt="LCLibrary Banner"/></p>
