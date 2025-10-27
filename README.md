@@ -21,7 +21,11 @@ I’m a former healthcare worker, Army veteran who is now diving deep into the w
 
 - **lcl** – A lightweight command-line interface library of Linux commands and drills, giving sysadmins and students a Terminal UI (TUI) to learn & reference syntax on the fly.
 
-# INSTALLATION GUIDE
+# INSTALLATION via PIPX
+``` bash
+pipx install 
+cd lcl
+```
 
 ---
 <p align="center">
