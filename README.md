@@ -21,11 +21,38 @@ I’m a former healthcare worker, Army veteran who is now diving deep into the w
 
 - **lcl** – A lightweight command-line interface library of Linux commands and drills, giving sysadmins and students a Terminal UI (TUI) to learn & reference syntax on the fly.
 
-# INSTALLATION via PIPX
-``` bash
-pipx install 
-cd lcl
+# Installation
+
+```bash
+pipx install linux-command-library
 ```
+# Requirements
+- Python 3.10+
+- Linux, macOS, or WSL
+
+---
+
+### 📦 PyPI & Repository Links
+<p align="center">
+  <a href="https://pypi.org/project/linux-command-library/">
+    <img src="https://badge.fury.io/py/linux-command-library.svg" alt="PyPI version">
+  </a>
+  <a href="https://pepy.tech/project/linux-command-library">
+    <img src="https://pepy.tech/badge/linux-command-library" alt="PyPI downloads">
+  </a>
+  <a href="https://github.com/Shadovaine/linux-command-library/stargazers">
+    <img src="https://img.shields.io/github/stars/Shadovaine/linux-command-library.svg?style=social&label=Star" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/Shadovaine/linux-command-library/issues">
+    <img src="https://img.shields.io/github/issues/Shadovaine/linux-command-library.svg" alt="GitHub issues">
+  </a>
+  <a href="https://github.com/Shadovaine/linux-command-library/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Shadovaine/linux-command-library.svg" alt="License">
+  </a>
+</p>
+
+---
+
 
 ---
 <p align="center">
