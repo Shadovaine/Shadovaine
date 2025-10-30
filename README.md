@@ -26,6 +26,10 @@ I’m a former healthcare worker, Army veteran who is now diving deep into the w
 ```bash
 pipx install linux-command-library
 ```
+## Usage
+```
+lcl
+```
 # Requirements
 - Python 3.10+
 - Linux, macOS, or WSL
