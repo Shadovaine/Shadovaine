@@ -89,6 +89,7 @@ cd LCLibrary
 
 ---
 
+Visit: [Documentation Labs on GitHub](https://github.com/ShadoVaine/DocumentationLabs)
 
 ## The DocumentationLabs Project grew out of a need to learn Documentation Standards with scenarios for practice.
   
