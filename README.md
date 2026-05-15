@@ -84,7 +84,7 @@ cd LCLibrary
 ```
 
 <p align="center">
-  <img srce="./media/DocumentationLabs.png" alt="LCLibrary Banner"/></p>
+  <img src="./media/DocumentationLabs.png" alt="LCLibrary Banner"/></p>
 ```
 # DocumentationLabs
 
