@@ -83,7 +83,6 @@ git clone https://github.com/ShadoVaine/LCLibrary.git
 cd LCLibrary
 ```
 
-```
 <p align="center">
   <img srce="./media/DocumentationLabs.png" alt="LCLibrary Banner"/></p>
 ```
