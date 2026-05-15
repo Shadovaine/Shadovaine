@@ -83,14 +83,23 @@ git clone https://github.com/ShadoVaine/LCLibrary.git
 cd LCLibrary
 ```
 
+---
 <p align="center">
   <img src="./media/DocumentationLabs.png" alt="LCLibrary Banner"/></p>
-```
-# DocumentationLabs
 
-**The DocumentationLabs Project grew out of a need to learn Documentation standards and provide scenarios for practice.**
+---
 
-Lab Scenarios cons
+
+## The DocumentationLabs Project grew out of a need to learn Documentation Standards with scenarios for practice.
+  
+## Each lab will consist of three files:
+
+ 1. README.md
+ 2. Commands.md
+ 3. Notes.md
+
+## This project is still ongoing, more lab scenarios on their way!
+
 
 
 
