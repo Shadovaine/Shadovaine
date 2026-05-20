@@ -4,7 +4,7 @@
 
 # 🦂 ShadoVaine Here, Welcome!!!!
 
-## Cybersecurity Apprentice | Linux Wrangler | CLI Addict | Home Lab Builder | 
+## Cybersecurity Enthusiast | Linux Wrangler | CLI Addict | Home Lab Builder | 
 
 I’m a former healthcare worker, Army veteran who is now diving deep into the world of Linux, cybersecurity, and network defense. My mission?  
 **To become the quiet sentinel on the edge of the wire.**
