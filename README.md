@@ -4,11 +4,9 @@
 
 # 🦂 ShadoVaine Here, Welcome!!!!
 
-## Cybersecurity Enthusiast | Linux Wrangler | CLI Addict | Home Lab Builder | 
+## Sysadmin Enthusiast | Linux Wrangler | CLI Addict | Home Lab Builder | 
 
-I’m a former healthcare worker, Army veteran who is now diving deep into the world of Linux, cybersecurity, and network defense. My mission?  
-**To become the quiet sentinel on the edge of the wire.**
-
+Army veteran and former healthcare professional pursuing a career in system administration and IT infrastructure. My primary interests include Linux administration, networking, automation, troubleshooting, and the technologies that keep systems reliable, secure, and running efficiently. I am actively building hands-on labs and projects to strengthen my technical skills and gain real-world experience.
 ---
 # 🎞️ FEATURED RELEASES!!!! 🎞️
 ---
