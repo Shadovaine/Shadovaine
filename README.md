@@ -13,6 +13,18 @@ I’m a former healthcare worker, Army veteran who is now diving deep into the w
 # 🎞️ FEATURED RELEASES!!!! 🎞️
 ---
 <p align="center">
+  <img src="./media/sysadminilabs.png" alt="ShadoVaine Banner" />
+</p>
+
+**SysAdmin-iLabs** is a collection of containerized Linux administration labs that provide hands-on practice with common SysAdmin tasks. Users learn through interactive Bash-based exercises covering user management, permissions, automation, troubleshooting, and system maintenance.
+
+
+## Topics Featured:
+- [user-management lab](https://github.com/ShadoVaine/Sysadmin-iLabs/user-management)
+- [permissions lab](https://github.com/ShadoVaine/Sysadmin-iLabs/permissions)
+
+---
+<p align="center">
   <img src="./media/LCB.png" alt="LCB Banner"/></p>
   
 <p align="center">
@@ -56,6 +68,22 @@ lcl
 </p>
 
 ---
+<p align="center">
+  <img src="./media/DocumentationLabs.png" alt="LCLibrary Banner"/></p>
+
+---
+
+Visit: [Documentation Labs on GitHub](https://github.com/ShadoVaine/DocumentationLabs)
+
+## The DocumentationLabs Project grew out of a need for me to learn Documentation Standards.
+  
+## Each lab will consist of three files:
+
+ 1. README.md
+ 2. Commands.md
+ 3. Notes.md
+
+## This project is still ongoing, more lab scenarios on their way!
 
 
 ---
@@ -82,39 +110,6 @@ Visit: [LCLibrary on GitHub](https://github.com/ShadoVaine/LCLibrary)
 git clone https://github.com/ShadoVaine/LCLibrary.git
 cd LCLibrary
 ```
-
----
-<p align="center">
-  <img src="./media/DocumentationLabs.png" alt="LCLibrary Banner"/></p>
-
----
-
-Visit: [Documentation Labs on GitHub](https://github.com/ShadoVaine/DocumentationLabs)
-
-## The DocumentationLabs Project grew out of a need for me to learn Documentation Standards.
-  
-## Each lab will consist of three files:
-
- 1. README.md
- 2. Commands.md
- 3. Notes.md
-
-## This project is still ongoing, more lab scenarios on their way!
-
----
-<p align="center" style="font-size:76px;">
-  <strong>SysAdmin Labs</strong>
-</p>
-
-
-## The Sysadmin iLabs are labs focused on system administrator related topics.
-
-## Topics Featured:
-- [user-management lab](https://github.com/ShadoVaine/Sysadmin-iLabs/user-management)
-
-
-
-
 
 ---
 ### 🗺️ Roadmap 🗺️
