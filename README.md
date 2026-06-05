@@ -91,7 +91,7 @@ cd LCLibrary
 
 Visit: [Documentation Labs on GitHub](https://github.com/ShadoVaine/DocumentationLabs)
 
-## The DocumentationLabs Project grew out of a need to learn Documentation Standards with scenarios for practice.
+## The DocumentationLabs Project grew out of a need for me to learn Documentation Standards.
   
 ## Each lab will consist of three files:
 
@@ -101,12 +101,24 @@ Visit: [Documentation Labs on GitHub](https://github.com/ShadoVaine/Documentatio
 
 ## This project is still ongoing, more lab scenarios on their way!
 
+---
+<p align="center" style="font-size:76px;">
+  <strong>SysAdmin Labs</strong>
+</p>
+
+
+## The Sysadmin iLabs are labs focused on system administrator related topics.
+
+## Topics Featured:
+- [user-management lab](https://github.com/ShadoVaine/Sysadmin-iLabs/user-management)
+
 
 
 
 
 ---
 ### 🗺️ Roadmap 🗺️
+- [ ] Creating interactive system administation labs that focus on the most common sysadmin topics.
 - [ ] Developing a Desktop and Mobile version of the LCLibrary containing drills, fill-in-the-blank questions, quizes, and other small games to help learn Linux commands.
 
 ---
@@ -124,14 +136,11 @@ I’m learning in public — not because I know it all, but because I’m commit
 
 [![Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Kali Linux](https://img.shields.io/badge/Linux-Kali-268BEE?logo=kalilinux&logoColor=white)](https://www.kali.org/)
-[![Lubuntu](https://img.shields.io/badge/Linux-Lubuntu-0068C8?logo=lubuntu&logoColor=white)](https://lubuntu.me/)
 
 [![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![PowerShell](https://img.shields.io/badge/Shell-PowerShell-5391FE?logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
 [![GitHub](https://img.shields.io/badge/Platform-GitHub-181717?logo=github&logoColor=white)](https://github.com/)
 
-![TryHackMe](https://img.shields.io/badge/-TryHackMe-red?style=flat-square&logo=tryhackme)
 ![CompTIA Linux+](https://img.shields.io/badge/CompTia-Linux%2B-blue?style=flat-square)
 
 ---
