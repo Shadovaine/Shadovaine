@@ -14,13 +14,15 @@ Army veteran and former healthcare professional pursuing a career in system admi
   <img src="./media/sysadminilabs.png" alt="ShadoVaine Banner" />
 </p>
 
-**SysAdmin-iLabs** is a collection of containerized Linux administration labs that provide hands-on practice with common SysAdmin tasks. Users learn through interactive Bash-based exercises covering user management, permissions, automation, troubleshooting, and system maintenance.
+**SysAdmin-iLabs** is a collection of containerized Linux administration labs that provide hands-on practice with common SysAdmin tasks. Users learn through interactive Bash-based exercises covering user management, permissions, troubleshooting, and system maintenance.
 
 
 ## Topics Featured:
 - [user-management lab](https://github.com/ShadoVaine/Sysadmin-iLabs/user-management)
 - [permissions lab](https://github.com/ShadoVaine/Sysadmin-iLabs/permissions)
-
+- [service-management lab](https://github.com/ShadoVaine/Sysadmin-iLabs/service-management)
+- [log-analysis lab](https://github.com/ShadoVaine/Sysadmin-iLabs/log-analysis)
+- [health-checks lab](https://github.com/ShadoVaine/Sysadmin-iLabs/health-checks)
 ---
 <p align="center">
   <img src="./media/LCB.png" alt="LCB Banner"/></p>
