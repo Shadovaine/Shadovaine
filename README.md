@@ -27,7 +27,6 @@ Army veteran and former healthcare professional pursuing a career in system admi
 
 ### 🗺️ Roadmap 🗺️
 - [ ] Creating interactive system administation labs that focus on the most common sysadmin topics.
-- [ ] Developing a HelpDesk Simulator that will help users learn how to use the top ticketing systems.
 
 ---
 ### ♏ What I'm About ♏
@@ -52,11 +51,8 @@ I’m learning in public — not because I know it all, but because I’m commit
 ---
 
 ### 🌐 Connect with Me 🌐
-- [Follow me on X (Twitter)](https://x.com/ShadoVaine)
 - Email: shado.sec@proton.me
 
 ---
-
-> 🧙‍♂️ _“In order to know God, you must know the Devil.”_ – **🦂 ShadoVaine**
 
 
