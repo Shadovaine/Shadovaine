@@ -4,7 +4,7 @@
 
 # 🦂 ShadoVaine Here, Welcome!!!!
 
-## Sysadmin Enthusiast | Linux Wrangler | CLI Addict | Home Lab Builder | 
+## Sysadmin Enthusiast | Linux Wrangler | Home Lab Builder | 
 
 Army veteran and former healthcare professional pursuing a career in system administration and IT infrastructure. My primary interests include Linux administration, networking, automation, troubleshooting, and the technologies that keep systems reliable, secure, and running efficiently. I am actively building hands-on labs and projects to strengthen my technical skills and gain real-world experience.
 ---
@@ -41,7 +41,7 @@ I’m learning in public — not because I know it all, but because I’m commit
 
 [![Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Kali Linux](https://img.shields.io/badge/Linux-Kali-268BEE?logo=kalilinux&logoColor=white)](https://www.kali.org/)
-
+[![Fedora Plasma KDE](https://img.shields.io/badge/Linux-Fedora_Plasma_KDE-294172?logo=fedora&logoColor=white)](https://fedoraproject.org/)
 [![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![GitHub](https://img.shields.io/badge/Platform-GitHub-181717?logo=github&logoColor=white)](https://github.com/)
