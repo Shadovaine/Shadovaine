@@ -8,11 +8,6 @@
 
 Army veteran and former healthcare professional pursuing a career in system administration and IT infrastructure. My primary interests include Linux administration, networking, automation, troubleshooting, and the technologies that keep systems reliable, secure, and running efficiently. I am actively building hands-on labs and projects to strengthen my technical skills and gain real-world experience.
 ---
-# 🎞️ FEATURED RELEASES!!!! 🎞️
----
-<p align="center">
-  <img src="./media/sysadminilabs.png" alt="ShadoVaine Banner" />
-</p>
 
 **SysAdmin-iLabs** is a collection of containerized Linux administration labs that provide hands-on practice with common SysAdmin tasks. Users learn through interactive Bash-based exercises covering user management, permissions, troubleshooting, and system maintenance.
 
@@ -41,9 +36,13 @@ I’m learning in public — not because I know it all, but because I’m commit
 
 [![Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Kali Linux](https://img.shields.io/badge/Linux-Kali-268BEE?logo=kalilinux&logoColor=white)](https://www.kali.org/)
+
 [![Fedora Plasma KDE](https://img.shields.io/badge/Linux-Fedora_Plasma_KDE-294172?logo=fedora&logoColor=white)](https://fedoraproject.org/)
+[![RedHat](https://img.shields.io/badge/RedHat-Linux-268BEE?logo=redhat&logoColor=white)](https://redhat.com/)
+
 [![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+
 [![GitHub](https://img.shields.io/badge/Platform-GitHub-181717?logo=github&logoColor=white)](https://github.com/)
 
 ![CompTIA Linux+](https://img.shields.io/badge/CompTia-Linux%2B-blue?style=flat-square)
