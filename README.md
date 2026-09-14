@@ -8,11 +8,11 @@
 
 Army veteran and former healthcare professional pursuing a career in system administration and IT infrastructure. My primary interests include Linux administration, networking, automation, troubleshooting, and the technologies that keep systems reliable, secure, and running efficiently. I am actively building hands-on labs and projects to strengthen my technical skills and gain real-world experience.
 ---
-<p align="center">
-  <h1>
+<h1>
+  <p align="center">
     <b>SysAdmin-iLabs</b>
-  </h1>
-</p>
+  </p>
+</h1>
 A collection of Linux administration labs that provide hands-on practice with common SysAdmin tasks. Users learn through interactive Bash-based exercises covering user management, permissions, troubleshooting, and system maintenance.
 
 
