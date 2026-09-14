@@ -15,11 +15,11 @@ A collection of Linux administration labs that provide hands-on practice with co
 
 
 ## Topics Featured:
-- [user-management lab](https://github.com/ShadoVaine/Sysadmin-iLabs/user-management)
-- [permissions lab](https://github.com/ShadoVaine/Sysadmin-iLabs/permissions)
-- [service-management lab](https://github.com/ShadoVaine/Sysadmin-iLabs/service-management)
-- [log-analysis lab](https://github.com/ShadoVaine/Sysadmin-iLabs/log-analysis)
-- [health-checks lab](https://github.com/ShadoVaine/Sysadmin-iLabs/health-checks)
+- [user-management lab](https://github.com/Shadovaine/Sysadmin-iLabs/tree/Development/user-management)
+- [permissions lab](https://github.com/ShadoVaine/Sysadmin-iLabs/tree/permissions)
+- [service-management lab](https://github.com/ShadoVaine/Sysadmin-iLabs/tree/service-management)
+- [log-analysis lab](https://github.com/ShadoVaine/Sysadmin-iLabs/tree/log-analysis)
+- [health-checks lab](https://github.com/ShadoVaine/Sysadmin-iLabs/tree/health-checks)
 ---
 
 ### 🗺️ Roadmap 🗺️
