@@ -28,6 +28,16 @@ A collection of Linux administration labs that provide hands-on practice with co
 - [ ] Creating interactive system administation labs that focus on the most common sysadmin topics.
 
 ---
+**HelpDesk-Portfolio**
+
+A growing collection of real-world HelpDesk troubleshooting guides — the most common issues IT professionals handle day to day, organized by platform with step-by-step resolution documentation.
+
+## Topics Featured:
+
+* [Windows](https://github.com/Shadovaine/HelpDesk-Portfolio) — AD password resets, printer/spooler issues, Outlook troubleshooting, new hire provisioning, bulk onboarding automation, and disk cleanup
+* [Linux](https://github.com/Shadovaine/HelpDesk-Portfolio) — disk-full recovery, VM network/internet issues, and shared drive availability
+---
+
 ### ♏ What I'm About ♏
 > *"The person you’re afraid of looking dumb in front of… probably respects you for trying in the first place."*  
 > – **Shadow Wisdom**
